@@ -1,0 +1,53 @@
+{
+  "reviews": [
+    {
+      "name": "Иван",
+      "message": "Плохо",
+      "approved": "0",
+      "id": 1
+    },
+    {
+      "name": "Мария",
+      "message": "Хорошо",
+      "approved": "",
+      "id": 2
+    },
+    {
+      "name": "Евгений",
+      "message": "Ужасно",
+      "approved": "0",
+      "id": 3
+    }
+  ],
+  "cart": [
+    {
+      "amount": "300",
+      "name": "Груши",
+      "id": "3",
+      "quantity": "1"
+    },
+    {
+      "amount": "100",
+      "name": "Яблоки",
+      "id": "1",
+      "quantity": "1"
+    }
+  ],
+  "goods": [
+    {
+      "id": 1,
+      "name": "Яблоки",
+      "amount": 100
+    },
+    {
+      "id": 2,
+      "name": "Апельсины",
+      "amount": 150
+    },
+    {
+      "id": 3,
+      "name": "Груши",
+      "amount": 300
+    }
+  ]
+}
